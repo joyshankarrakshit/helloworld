@@ -1,2 +1,2 @@
 # helloworld
-A hello world program in C
+My first repository
